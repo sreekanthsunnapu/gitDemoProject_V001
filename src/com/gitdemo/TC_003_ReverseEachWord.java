@@ -13,12 +13,6 @@ public class TC_003_ReverseEachWord {
 				reverse=reverse+word.charAt(i);
 			}
 			System.out.print(reverse+" ");
-		}
-<<<<<<< HEAD
-		
+		}		
 	}
-
-=======
-	}
->>>>>>> refs/heads/Feature-Login
 }
