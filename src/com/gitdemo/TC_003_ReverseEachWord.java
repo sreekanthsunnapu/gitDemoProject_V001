@@ -14,7 +14,11 @@ public class TC_003_ReverseEachWord {
 			}
 			System.out.print(reverse+" ");
 		}
+<<<<<<< HEAD
 		
 	}
 
+=======
+	}
+>>>>>>> refs/heads/Feature-Login
 }
